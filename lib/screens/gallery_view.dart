@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../models/gallery_item.dart';
 import '../widgets/image_bottom_sheet.dart';
 import '../gallery_data.dart';
 
