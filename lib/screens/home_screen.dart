@@ -1,3 +1,4 @@
+import 'package:final_bildergallerie/screens/gallery_view.dart';
 import 'package:flutter/material.dart';
 import 'package:test_bilder_gallerie/screens/about_me_screen.dart';
 import 'gallery_view.dart';
